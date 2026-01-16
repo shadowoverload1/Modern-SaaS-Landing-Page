@@ -83,7 +83,7 @@ Elemen yang dianimasikan:
 
 # 📧 Support
 
-- 📩 support@email.com
+- 📩 shadowoverload1@email.com
 
 ---
 
